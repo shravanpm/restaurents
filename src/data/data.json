@@ -1,0 +1,223 @@
+{
+    "data":[{
+        "id":1,
+        "img":"https://github.com/shravanpm/cherry/blob/main/cherry/assets/restaurant1.jpeg?raw=true",
+        "title":"Chaitanya Parathas",
+        "subTitle":"North India, Punjabi, Chinesen Thalis Combo, Beverages",
+        "timing":33,
+        "rating":4.3,
+        "costFor2":200,
+        "offer":"20% off | Use TRYNEW"
+
+    },
+    {
+        "id":2,
+        "img":"https://github.com/shravanpm/cherry/blob/main/cherry/assets/restaurant2.jpeg?raw=true",
+        "title":"MH 12 Pav Bhaji",
+        "subTitle":" Snacks, Pizza, Beverages, Steet Food",
+        "timing":25,
+        "rating":4.0,
+        "costFor2":250,
+        "offer":"10% off | Use TRYNEW"
+
+    },
+    {
+        "id":3,
+        "img":"https://github.com/shravanpm/cherry/blob/main/cherry/assets/restaurant3.jpeg?raw=true",
+        "title":"Lunch Box",
+        "rating":4.2,
+        "subTitle":" North India, Punjabi, Combo, Biryani, Healthy Food, Jain,Thalis",
+        "timing":31,
+        "costFor2":200,
+        "offer":"20% off | Use TRYNEW"
+
+    },
+    {
+        "id":4,
+        "img":"https://github.com/shravanpm/cherry/blob/main/cherry/assets/restaurant4.jpeg?raw=true",
+        "title":"The Hungry Hippe",
+        "subTitle":"Chinese, Italian, Thai",
+        "timing":38,
+        "costFor2":190,
+        "offer":"40% off | Use TRYNEW",
+        "rating":2
+
+    },
+    {
+        "id":5,
+        "img":"https://github.com/shravanpm/cherry/blob/main/cherry/assets/restaurant5.jpeg?raw=true",
+        "title":"Ovenstory Pizzas",
+        "subTitle":"Pizzas",
+        "rating":3.6,
+        "timing":45,
+        "costFor2":600,
+        "offer":"50% off | Use TRYNEW"
+
+    },
+    {
+        "id":6,
+        "img":"https://github.com/shravanpm/cherry/blob/main/cherry/assets/restaurant6.jpeg?raw=true",
+        "title":"Starbucks Coffee",
+        "subTitle":"Beverages, Ice Cream",
+        "timing":38,
+        "rating":4.3,
+        "costFor2":400,
+        "offer":"40% off | Use TRYNEW"
+
+    },
+    {
+        "id":7,
+        "img":"https://github.com/shravanpm/cherry/blob/main/cherry/assets/restaurant7.jpeg?raw=true",
+        "title":"Ann's Kitchen",
+        "subTitle":"Continental, Chineese",
+        "timing":32,
+        "rating":4.1,
+        "costFor2":600,
+        "offer":"25% | Use TRYNEW"
+
+    },
+    {
+        "id":8,
+        "img":"https://github.com/shravanpm/cherry/blob/main/cherry/assets/restaurant8.jpeg?raw=true",
+        "title":"Bradley's",
+        "subTitle":"Continental, Western",
+        "timing":25,
+        "costFor2":210,
+        "offer":"22% | Use TRYNEW",
+        "rating":4.1
+
+    },
+    {
+        "id":9,
+        "img":"https://github.com/shravanpm/cherry/blob/main/cherry/assets/restaurant9.jpeg?raw=true",
+        "title":"Naturals",
+        "subTitle":"Thai, Indian",
+        "timing":22,
+        "costFor2":170,
+        "offer":"",
+        "rating":3.6
+
+    },
+    {
+        "id":10,
+        "img":"https://github.com/shravanpm/cherry/blob/main/cherry/assets/restaurant10.jpeg?raw=true",
+        "title":"Indiana",
+        "subTitle":"Indian",
+        "timing":38,
+        "costFor2":240,
+        "offer":"25% | Use TRYNEW",
+        "rating":4.1
+
+    },
+    {
+        "id":11,
+        "img":"https://www.bing.com/th?id=OIP.lEa60MoPEz7kNWZQBc_a3wHaEo&w=316&h=197&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2",
+        "title":"Meeras Kitchen",
+        "subTitle":"Indian, Thai, Continental",
+        "timing":28,
+        "costFor2":330,
+        "offer":"25% | Use TRYNEW",
+        "rating":4.0
+
+    },
+    {
+        "id":12,
+        "img":"https://th.bing.com/th/id/OIP.vOZbBTWcUgNGWc0B_dl1wgHaE8?w=295&h=196&c=7&r=0&o=5&dpr=1.5&pid=1.7",
+        "title":"Kerala",
+        "subTitle":"Indian",
+        "timing":40,
+        "costFor2":480,
+        "offer":"25% | Use TRYNEW",
+        "rating":4.5
+
+    },
+    {
+        "id":13,
+        "img":"https://th.bing.com/th/id/OIP.uAeQiSIH0jxHd7JxzPNS3gHaHa?w=200&h=200&c=7&r=0&o=5&dpr=1.5&pid=1.7",
+        "title":"Merys Palace",
+        "subTitle":"Continental, Thai",
+        "timing":24,
+        "costFor2":250,
+        "offer":"25% | Use TRYNEW",
+        "rating":4.2
+
+    },
+    {
+        "id":14,
+        "img":"https://th.bing.com/th/id/OIP.VtQZiLCYi_nZUCLDwXeYSQHaE8?w=290&h=193&c=7&r=0&o=5&dpr=1.5&pid=1.7",
+        "title":"Vibhav bhavan",
+        "subTitle":"Indian, Chineese, Continental",
+        "timing":28,
+        "costFor2":320,
+        "offer":"25% | Use TRYNEW",
+        "rating":4.7
+
+    },
+    {
+        "id":15,
+        "img":"https://th.bing.com/th/id/OIP.3V2fvdA6O0fSG6qGMyMeZwHaEo?w=298&h=186&c=7&r=0&o=5&dpr=1.5&pid=1.7",
+        "title":"Arya bhavan",
+        "subTitle":"Indian",
+        "timing":"25",
+        "costFor2":220,
+        "offer":"25% | Use TRYNEW",
+        "rating":4.4
+
+    },
+    {
+        "id":16,
+        "img":"https://th.bing.com/th/id/OIP.PTUANQkQTnt-C44qxNHKLAHaE8?w=264&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7",
+        "title":"Kfc",
+        "subTitle":"Chicken",
+        "timing":20,
+        "costFor2":210,
+        "offer":"25% | Use TRYNEW",
+        "rating":4.4
+
+    },
+    {
+        "id":17,
+        "img":"https://th.bing.com/th/id/OIP.LVbkZqlZ_0thYlqOCy_oMAHaEo?w=310&h=193&c=7&r=0&o=5&dpr=1.5&pid=1.7",
+        "title":"Indian Coffee House",
+        "subTitle":"Indian, Chineese, Thai",
+        "timing":21,
+        "costFor2":270,
+        "offer":"25% | Use TRYNEW",
+        "rating":3.9
+
+    },
+    {
+        "id":18,
+        "img":"https://th.bing.com/th/id/OIP.SmO9DCwE75RkPLi82Q9D5gHaLG?w=200&h=300&c=7&r=0&o=5&dpr=1.5&pid=1.7",
+        "title":"MTR",
+        "subTitle":"Indian",
+        "timing":22,
+        "costFor2":205,
+        "offer":"25% | Use TRYNEW",
+        "rating":3.7
+
+    },
+    {
+        "id":19,
+        "img":"https://th.bing.com/th/id/OIP.4vrkRMpeUJQM2gjRGsR57wHaEK?w=291&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7",
+        "title":"Adithyas",
+        "subTitle":"Indian",
+        "timing":26,
+        "costFor2":218,
+        "offer":"25% | Use TRYNEW",
+        "rating":4.1
+
+    },
+    {
+        "id":20,
+        "img":"https://th.bing.com/th/id/OIP.JYSrMD5lKMPwJyklxsv7IgHaE8?w=272&h=182&c=7&r=0&o=5&dpr=1.5&pid=1.7",
+        "title":"Tessas Kitchen",
+        "subTitle":"Continental",
+        "timing":21,
+        "costFor2":170,
+        "offer":"25% | Use TRYNEW",
+        "rating":4.2
+
+    }
+]
+}
